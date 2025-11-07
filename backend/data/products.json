@@ -1,0 +1,7 @@
+[
+  { "id": "p1", "name": "Notebook", "price": 120 },
+  { "id": "p2", "name": "Pen Set", "price": 60 },
+  { "id": "p3", "name": "Desk Lamp", "price": 800 },
+  { "id": "p4", "name": "Study Chair", "price": 2500 },
+  { "id": "p5", "name": "Planner", "price": 250 }
+]
